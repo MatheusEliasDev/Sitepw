@@ -1,0 +1,42 @@
+body {
+    
+    background-color:black; color: aliceblue;
+    font-size:large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+strong {
+    color: rgb(244, 14, 133);
+}
+em {
+    color: rgb(239, 251, 6);
+}
+
+a { 
+
+    color: rgb(239, 251, 6);
+    font-size: smaller;
+    text-align: center
+}
+
+h1 {
+    color: rgb(244, 14, 133);
+    font-size:xx-large;
+    text-decoration: none;
+    text-align: center;
+
+    
+}
+
+h2 {
+    color: rgb(239, 251, 6);
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+img {
+    margin: auto;
+    display: block;
+    width: auto;
+    
+}

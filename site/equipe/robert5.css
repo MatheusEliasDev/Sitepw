@@ -1,0 +1,36 @@
+body {
+    
+    background-color:black; color: aliceblue;
+    font-size:large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+   
+}
+strong {
+    color: rgba(12, 193, 253, 0.794)
+}
+em {
+    color: rgb(241, 241, 11);
+}
+
+a { 
+    color: rgb(239, 251, 6);
+    font-size: smaller;
+    text-align: center
+}
+
+h1 {
+    color: rgba(12, 193, 253, 0.794);
+    font-size:xx-large;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(241, 241, 11);
+    text-align: center;
+    font-size: xx-large;
+}
+img {
+    margin: auto;
+    display: block;
+    width: auto;
+}
